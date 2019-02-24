@@ -6,6 +6,9 @@ vasern/src/plugins/vasern-auth
 vasern/src/plugins/vasern-server-sync
 
 # exclude builds and bundles
+android/android.iml
+android/.idea
+android/local.properties
 android/build
 android/.gradle
 
